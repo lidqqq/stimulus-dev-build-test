@@ -25,15 +25,15 @@ $ npx serve -l 3030 -n
 http://localhost:3030/b8cc8c4
 # build hash: https://github.com/stimulusjs/dev-builds/releases/tag/b8cc8c4%2Fstimulus
 
-# Last commit which works correctly
+# Last version which works correctly
 http://localhost:3030/2878422
 # build hash: https://github.com/stimulusjs/dev-builds/releases/tag/2878422%2Fstimulus
 
-# Doesn't work since this commit
+# Doesn't work since this version
 http://localhost:3030/40366c8
 # build hash: https://github.com/stimulusjs/dev-builds/releases/tag/40366c8%2Fstimulus
 
-# Latest commit, it dosen't
+# Latest version, it dosen't
 http://localhost:3030/eb1d40c
 # build hash: https://github.com/stimulusjs/dev-builds/releases/tag/eb1d40c%2Fstimulus
 ```
